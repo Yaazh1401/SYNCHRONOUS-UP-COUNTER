@@ -58,10 +58,11 @@ RegisterNumber:212224230308
 ![image](https://github.com/user-attachments/assets/0eda2933-a65e-401a-8627-0c259a71de3b)
 
 **TIMING DIAGRAM FOR IP COUNTER**
-![image](https://github.com/user-attachments/assets/268d3dcf-60c1-4d76-8c01-45c1787e5267)
+![Screenshot 2025-05-21 223028](https://github.com/user-attachments/assets/0e51f009-2ba2-48e8-a675-edb981f66350)
+
 
 **TRUTH TABLE**
-![image](https://github.com/user-attachments/assets/5b275561-5fe5-42fa-b378-0fa2d0def11f)
+![image](https://github.com/user-attachments/assets/fc7ece40-8cf3-4cd8-8b29-5de780973ec8)
 
 **RESULTS**
 Thus the given 4 bit synchronous up counters are implimented and validated functionality are verified in Quartus II using verilog programming.
